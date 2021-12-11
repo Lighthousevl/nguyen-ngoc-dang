@@ -1,3 +1,3 @@
 <php
-    echo "hello danghdaaaaaaaaaaaaasdshhg ";
+    echo "hello danghdsdshhg đinh ngoc hai dang ";
 ?>
